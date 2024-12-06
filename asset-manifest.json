@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.54553497.css",
-    "main.js": "/repository-name/static/js/main.e4ba33d9.js",
-    "static/js/453.6d68222a.chunk.js": "/repository-name/static/js/453.6d68222a.chunk.js",
-    "static/media/news-image.jpg": "/repository-name/static/media/news-image.b9b18e3a14c2afb32634.jpg",
-    "index.html": "/repository-name/index.html",
-    "main.54553497.css.map": "/repository-name/static/css/main.54553497.css.map",
-    "main.e4ba33d9.js.map": "/repository-name/static/js/main.e4ba33d9.js.map",
-    "453.6d68222a.chunk.js.map": "/repository-name/static/js/453.6d68222a.chunk.js.map"
+    "main.css": "/newshunt/static/css/main.54553497.css",
+    "main.js": "/newshunt/static/js/main.37a2acc0.js",
+    "static/js/453.6d68222a.chunk.js": "/newshunt/static/js/453.6d68222a.chunk.js",
+    "static/media/news-image.jpg": "/newshunt/static/media/news-image.b9b18e3a14c2afb32634.jpg",
+    "index.html": "/newshunt/index.html",
+    "main.54553497.css.map": "/newshunt/static/css/main.54553497.css.map",
+    "main.37a2acc0.js.map": "/newshunt/static/js/main.37a2acc0.js.map",
+    "453.6d68222a.chunk.js.map": "/newshunt/static/js/453.6d68222a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54553497.css",
-    "static/js/main.e4ba33d9.js"
+    "static/js/main.37a2acc0.js"
   ]
 }
