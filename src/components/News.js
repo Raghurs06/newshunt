@@ -87,7 +87,7 @@ const News = (props) => {
           </button>
         )} */}
         <h2 className="text-center mt-5">
-          News Hunt - Top {props.category} Headings
+          News Hunt - Top {capitalizeFirstLetter(props.category)} Headlines
         </h2>
         <InfiniteScroll
           dataLength={articles.length}
